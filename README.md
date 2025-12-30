@@ -1,87 +1,84 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Mohhit1230&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20Scalable%20AI%20Solutions%20&descAlignY=51&descAlign=62" />
-  
-  <h3>MERN Stack Developer | AI Integration Specialist</h3>
-  
-  <p>
-    Building robust backend systems and integrating next-gen AI models into production applications.
-  </p>
+<!-- Banner -->
+<p align="center">
+  <img width="800" src="https://raw.githubusercontent.com/Mohhit1230/Mohhit1230/main/github-banner.png?sanitize=true" alt="GitHub Profile Banner"/>
+</p>
 
-  <a href="https://github.com/Mohhit1230">
-    <img src="https://img.shields.io/github/followers/Mohhit1230?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/twitter/follow/your_handle?label=Follow&style=social" alt="Twitter" />
-  </a>
-</div>
+<h1 align="center">Hey there 👋 I'm Mohhit</h1>
+<p align="center">A passionate <strong>Full Stack Developer</strong> | MERN Stack Specialist | Problem Solver | Open Source Contributor</p>
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 About Me
 
-I am a developer focused on bridging the gap between frontend interactivity and server-side reliability. My recent work involves deep dives into the **Model Context Protocol (MCP)** and optimizing **Large Language Model (LLM)** integrations (specifically Gemini) to reduce latency and improve security. 
-
-I specialize in refactoring complex client-side logic into efficient server-side architectures to solve production-level bottlenecks like request timeouts and API limits.
-
-- 🔭 **I’m currently working on:** Advanced AI Agent orchestration using TypeScript.
-- 👯 **I’m looking to collaborate on:** Open-source AI tools and developer productivity SDKs.
-- ⚡ **Fun fact:** I love debugging race conditions in async API calls.
+👨‍💻 I’m a Computer Science student (B.Tech – CSE) at **NIT Bhopal** and a MERN stack developer  
+🔭 Currently building scalable web apps and backend APIs  
+🌱 I love experimenting with new technologies like AI/ML, Cloud, DevOps  
+💬 Ask me about JavaScript, React, Node.js, or anything web dev  
+📫 Reach me at: **[Your Email Here]**
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  
-  <br />
-  
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  
-  <br />
-  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
+| Frontend | Backend | Database | Tools |
+|----------|---------|----------|-------|
+| React.js | Node.js | MongoDB | Git & GitHub |
+| HTML & CSS | Express.js | MySQL | VS Code |
+| TypeScript | REST APIs | Firebase | Postman |
+| TailwindCSS | JWT Auth | Redis | Docker (learning) |
 
 ---
 
-### 🚀 Featured Projects
+## 📌 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🤖 MCP AI Gateway** | A robust server-side implementation of the Model Context Protocol. Solves client-side timeout issues by handling Gemini API requests securely on the backend. | `TypeScript` `Node.js` `Gemini API` |
-| **[Project Name 2]** | *[Add your second best project here - e.g., A real-time dashboard or e-commerce app]* | `React` `Firebase` `Tailwind` |
-| **[Project Name 3]** | *[Add a third project or a library you contributed to]* | `Python` `FastAPI` |
+Here are some highlighted repositories — **projects that show real skills**:
 
----
+### 💻 Web Applications
+- **Project Name 1** – Full Stack app with React, Node & Express  
+  ⭐ Highlights: Authentication, API design, state management, deployment
 
-### 📊 GitHub Stats
+- **Project Name 2** – React UI library / component generator  
+  ⭐ Highlights: Modular reusable components + live preview (Frontend dev skills)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohhit1230&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohhit1230&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Languages" />
-</div>
+### 🤖 AI / API Integrations
+- **AI-Image-Explorer** – Uses OpenAI API for image gen + Cloudinary uploads  
+  ⭐ Highlights: API integration, real-time UX, scalable storage
 
-<br />
+### 📬 Utility Tools
+- **Email Scheduler / Auto-Reply API**  
+  ⭐ Highlights: Automation, cron jobs, secure Google API integration
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohhit1230&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
-</div>
+*(Add repo links and brief bullet points for each one you want to showcase)*
 
 ---
 
-### 📫 Connect with Me
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Mohhit1230&show_icons=true&theme=radical" />
+  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohhit1230&theme=radical" />
 </p>
+
+---
+
+## 💡 What I’m Learning Next
+- Advanced React patterns & Next.js  
+- Cloud deployment (AWS & GCP)  
+- CI/CD with GitHub Actions  
+- Real-Time Systems & WebSockets
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin-url"><img alt="LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" /></a>
+  <a href="mailto:your-email@example.com"><img alt="Email" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/maildotru.svg" /></a>
+  <a href="https://twitter.com/your-twitter"><img alt="Twitter" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitter.svg" /></a>
+</p>
+
+---
+
+> **Pro Tip:** Keep this README updated with your newest cool projects. Treat it like your portfolio :)
+
+---
