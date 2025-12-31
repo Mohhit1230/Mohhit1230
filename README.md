@@ -1,84 +1,24 @@
-<!-- Banner -->
-<p align="center">
-  <img width="800" src="https://raw.githubusercontent.com/Mohhit1230/Mohhit1230/main/github-banner.png?sanitize=true" alt="GitHub Profile Banner"/>
-</p>
+# 💫 About Me:
+👨‍💻 I’m a Computer Science student (B.Tech – CSE) at **MANIT Bhopal** and a MERN stack developer  <br>🔭 Currently building scalable web apps and backend APIs  <br>🌱 I love experimenting with new technologies like AI/ML, Cloud, MCP Servers<br>💬 Ask me about Next.js, React.js, Node.js, or anything web dev  <br>📫 Reach me at: **Mohitsingh6266@gmail.com**
 
-<h1 align="center">Hey there 👋 I'm Mohhit</h1>
-<p align="center">A passionate <strong>Full Stack Developer</strong> | MERN Stack Specialist | Problem Solver | Open Source Contributor</p>
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohhit_12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohhit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Mohitsingh6266@gmail.com) 
 
-## 🚀 About Me
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mohhit1230&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mohhit1230&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohhit1230&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-👨‍💻 I’m a Computer Science student (B.Tech – CSE) at **NIT Bhopal** and a MERN stack developer  
-🔭 Currently building scalable web apps and backend APIs  
-🌱 I love experimenting with new technologies like AI/ML, Cloud, DevOps  
-💬 Ask me about JavaScript, React, Node.js, or anything web dev  
-📫 Reach me at: **[Your Email Here]**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mohhit1230&theme=nightowl&no-frame=false&no-bg=true&margin-w=4)
 
----
-
-## 🛠️ Tech Stack
-
-| Frontend | Backend | Database | Tools |
-|----------|---------|----------|-------|
-| React.js | Node.js | MongoDB | Git & GitHub |
-| HTML & CSS | Express.js | MySQL | VS Code |
-| TypeScript | REST APIs | Firebase | Postman |
-| TailwindCSS | JWT Auth | Redis | Docker (learning) |
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mohhit1230&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Mohhit1230&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📌 Featured Projects
-
-Here are some highlighted repositories — **projects that show real skills**:
-
-### 💻 Web Applications
-- **Project Name 1** – Full Stack app with React, Node & Express  
-  ⭐ Highlights: Authentication, API design, state management, deployment
-
-- **Project Name 2** – React UI library / component generator  
-  ⭐ Highlights: Modular reusable components + live preview (Frontend dev skills)
-
-### 🤖 AI / API Integrations
-- **AI-Image-Explorer** – Uses OpenAI API for image gen + Cloudinary uploads  
-  ⭐ Highlights: API integration, real-time UX, scalable storage
-
-### 📬 Utility Tools
-- **Email Scheduler / Auto-Reply API**  
-  ⭐ Highlights: Automation, cron jobs, secure Google API integration
-
-*(Add repo links and brief bullet points for each one you want to showcase)*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Mohhit1230&show_icons=true&theme=radical" />
-  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohhit1230&theme=radical" />
-</p>
-
----
-
-## 💡 What I’m Learning Next
-- Advanced React patterns & Next.js  
-- Cloud deployment (AWS & GCP)  
-- CI/CD with GitHub Actions  
-- Real-Time Systems & WebSockets
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-url"><img alt="LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" /></a>
-  <a href="mailto:your-email@example.com"><img alt="Email" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/maildotru.svg" /></a>
-  <a href="https://twitter.com/your-twitter"><img alt="Twitter" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitter.svg" /></a>
-</p>
-
----
-
-> **Pro Tip:** Keep this README updated with your newest cool projects. Treat it like your portfolio :)
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
